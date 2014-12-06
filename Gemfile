@@ -6,6 +6,7 @@ group :development, :test do
   gem 'guard-bundler'
   gem 'factory_girl_rails'
   gem 'capybara'
+  gem 'launchy'
 end
 
 
